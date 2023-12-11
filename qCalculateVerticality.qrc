@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/CC/plugin/qCalculateVerticality">
+        <file>images/icon_verticality.png</file>
+        <file>images/icon_slice.png</file>
+        <file>images/icon_circle.png</file>
+        <file>images/icon_fj.png</file>
+        <file>info.json</file>
+    </qresource>
+</RCC>

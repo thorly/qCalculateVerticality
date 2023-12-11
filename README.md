@@ -1,0 +1,2 @@
+# qCalculateVerticality
+qCalculateVerticality是一个用于计算风机塔筒垂直度的CloudCompare插件。

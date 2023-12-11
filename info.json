@@ -1,0 +1,20 @@
+{
+	"type": "Standard",
+	"name": "风机塔筒垂直度",
+	"icon": ":/CC/plugin/qCalculateVerticality/images/icon_fj.png",
+	"description": "计算风机塔筒垂直度并导出垂直度报告.",
+	"authors": [
+		{
+			"name": "thorly",
+			"email": "thor.ly@outlook.com"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "thorly",
+			"email": "thor.ly@outlook.com"
+		}
+	],
+	"references": [
+	]
+}
